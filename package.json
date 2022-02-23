@@ -1,5 +1,6 @@
 {
-  "name": "compiler-opt-info",
+  "name": "compiler-opt-info2",
+  "description": "Helper package for compiler-explorer",
   "main": "lib/index.js",
   "devDependencies": {
     "@types/node": "^7.0.12",
@@ -21,10 +22,14 @@
     "files": [
       "lib/test/test.js"
     ]},
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaredwy/compiler-opt-info.git"
+    "url": "git+https://github.com/OfekShilon/compiler-opt-info2.git"
   },
-  "license" : "MIT" 
+  "bugs": {
+    "url": "https://github.com/OfekShilon/compiler-opt-info2/issues"
+   },
+  "homepage": "https://github.com/OfekShilon/compiler-opt-info2",
+  "license": "MIT" 
 }
